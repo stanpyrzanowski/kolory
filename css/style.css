@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+}
+
+#kolory-predefiniowe {
+    width: 200px;
+    height: 100px;
+    background-color: orangered;
+}
+
+div {
+    margin-bottom: 5px;
+}
+#kolory-heksadecymalne {
+    width: 200px;
+    height: 100px;
+    background-color: #ff7755;
+}
+#kolor-heksadecymalny-zapis-skrocony {
+    width: 200px;
+    height: 100px;
+    background-color: #f75;
+}
+kolory-funkcja-rgba {
+    width: 200px;
+    height: 100px;
+    background-color: rgb()
+}
